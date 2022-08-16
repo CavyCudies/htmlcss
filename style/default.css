@@ -140,7 +140,7 @@ th {
         padding-right: 32px;
     }
 
-    .footer-container-tablet {
+    .container_footer-tablet {
         padding-left: 124px;
         padding-right: 124px;
     }
@@ -156,9 +156,5 @@ th {
     .main-container {
         padding-left: 16px;
         padding-right: 16px;
-    }
-
-    .footer-container-map {
-        padding: 0;
     }
 }
